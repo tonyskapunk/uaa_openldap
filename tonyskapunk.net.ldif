@@ -1,0 +1,21 @@
+dn: uid=tonyskapunk,ou=People,dc=tonyskapunk,dc=net
+objectClass: posixAccount
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: person
+objectClass: shadowAccount
+homeDirectory: /home/tonyskapunk
+cn: Tony G.
+sn: G.
+givenName: Tony
+mail: tonyg@tonyskapunk.net
+uidNumber: 2001
+gidNumber: 2001
+uid: tonyskapunk
+loginShell: /bin/bash
+userPassword: <use slappasswd>
+
+dn: cn=tonyskapunk,ou=group,dc=tonyskapunk,dc=net
+objectClass: posixGroup
+gidNumber: 2001
+cn: tonyskapunk

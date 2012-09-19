@@ -1,0 +1,5 @@
+dn: dc=tonyskapunk,dc=net
+objectClass: dcObject
+objectClass: organization
+o: tonyskapunk.net
+dc: tonyskapunk

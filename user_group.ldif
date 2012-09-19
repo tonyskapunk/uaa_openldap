@@ -1,0 +1,9 @@
+dn: ou=People,dc=tonyskapunk,dc=net
+objectClass: top
+objectClass: organizationalUnit
+ou: People
+
+dn: ou=Group,dc=tonyskapunk,dc=net
+objectClass: top
+objectClass: organizationalUnit
+ou: Group
