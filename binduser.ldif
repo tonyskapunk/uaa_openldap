@@ -1,0 +1,5 @@
+dn: cn=binduser,dc=tonyskapunk,dc=net
+objectClass: organizationalPerson
+cn: binduser
+sn: lastname
+userPassword: <use slappasswd>
