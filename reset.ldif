@@ -1,0 +1,4 @@
+dn: uid=tonyskapunk,ou=People,dc=tonyskapunk,dc=net
+changeType: modify
+replace: userPassword
+userPassword: <use slappasswd>
